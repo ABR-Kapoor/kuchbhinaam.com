@@ -74,7 +74,7 @@ font-family: 'Ubuntu', sans-serif;
     border-radius: 38px; 
 }
 .background{
-    background: rgb(0, 0, 0, 0.7) url(../img/bg.jpg);
+    background: rgb(0, 0, 0, 0.7) url(bg.jpg);
     background-size: cover;
     background-blend-mode: darken;
 }
@@ -255,7 +255,7 @@ font-family: 'Ubuntu', sans-serif;
         justify-content: center;
     }
 .bg-contact{
-        background: rgb(0, 0, 0, 0.7) url(../img/img3.jfif);
+        background: rgb(0, 0, 0, 0.7) url(img3.jfif);
         background-size: cover;
         background-blend-mode: darken;
     }
